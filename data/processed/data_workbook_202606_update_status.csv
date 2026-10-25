@@ -1,0 +1,41 @@
+﻿variable,feature,old_latest,new_latest,rows_added,status,note
+brent_oil_usd_bbl,브렌트유(기말),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=902Y003, items=010103"
+china_gdp_growth,중국 성장률(전년동기),2026-01-01,2026-01-01,0,skipped_non_monthly,frequency=Q
+construction_completed_yoy,건설기성액(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y104, items=I48A.I37B"
+current_account_100m_usd,경상수지,2026-04-01,2026-04-01,0,no_new_ecos_rows,"stat=301Y013, items=000000"
+customs_exports_yoy,수출(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y118, items=T002"
+customs_imports_yoy,수입(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y118, items=T004"
+dubai_oil_usd_bbl,두바이유(기말),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=902Y003, items=010102"
+euro_policy_rate,유로 정책금리,2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=902Y006, items=XM"
+export_value_index_yoy,수출금액지수(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=403Y001, items=*AA"
+export_volume_index_yoy,수출물량지수(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=403Y002, items=*AA"
+exports_to_us_yoy,대미 수출(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y121, items=T002.US"
+facility_investment_yoy,설비투자지수(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y066, items=I15A"
+foreign_stock_net_buy_tril_krw,외국인 주식순매수,2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y055, items=S22CC.VA"
+global_us_policy_rate,미국 정책금리(상단),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=902Y006, items=US"
+goods_account_100m_usd,상품수지,2026-04-01,2026-04-01,0,no_new_ecos_rows,"stat=301Y013, items=100000"
+household_credit_qoq_change_tril_krw,가계신용(전분기대비 증감),2026-01-01,2026-01-01,0,skipped_non_monthly,frequency=Q
+household_credit_tril_krw,가계신용 잔액,2026-01-01,2026-01-01,0,skipped_non_monthly,frequency=Q
+housing_related_loans_tril_krw,주택담보대출 잔액,2026-01-01,2026-01-01,0,skipped_non_monthly,frequency=Q
+import_value_index_yoy,수입금액지수(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=403Y003, items=*AA"
+import_volume_index_yoy,수입물량지수(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=403Y004, items=*AA"
+japan_gdp_growth,일본 성장률(전기대비),2026-01-01,2026-01-01,0,skipped_non_monthly,frequency=Q
+japan_policy_rate,일본 정책금리,2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=902Y006, items=JP"
+kosdaq_close,코스닥,2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y014, items=2090000"
+kospi_close,코스피,2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y014, items=1070000"
+lf_tril_krw,Lf(금융기관유동성),2026-04-01,2026-04-01,0,no_new_ecos_rows,"stat=171Y004, items=LA00000"
+m1_tril_krw,M1(협의통화),2026-04-01,2026-04-01,0,no_new_ecos_rows,"stat=161Y002, items=BBLA00"
+m2_tril_krw,M2(광의통화),2026-04-01,2026-04-01,0,no_new_ecos_rows,"stat=161Y006, items=BBHA00"
+manufacturing_avg_operation_rate,제조업평균가동률,2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y025, items=I31A"
+manufacturing_production_yoy,제조업생산지수(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y033, items=AB00.1"
+monetary_base_tril_krw,본원통화,2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=102Y002, items=ABA1"
+ppi_yoy,생산자물가(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=404Y014, items=*AA"
+real_gdp_qoq,실질 GDP(전기대비),2026-01-01,2026-01-01,0,skipped_non_monthly,frequency=Q
+real_gdp_yoy,실질 GDP(전년동기대비),2026-01-01,2026-01-01,0,skipped_non_monthly,frequency=Q
+real_gni_qoq,실질 GNI(전기대비),2026-01-01,2026-01-01,0,skipped_non_monthly,frequency=Q
+retail_sales_yoy,소매판매액지수(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y100, items=G0.T2"
+service_production_yoy,서비스업생산지수(전년동월비),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=901Y038, items=I51A.2"
+services_account_100m_usd,서비스수지,2026-04-01,2026-04-01,0,no_new_ecos_rows,"stat=301Y013, items=200000"
+us_gdp_growth,미국 성장률(전기연율),2026-01-01,2026-01-01,0,skipped_non_monthly,frequency=Q
+us_policy_rate_upper,미국 연준 정책금리(상단),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=902Y006, items=US"
+wti_oil_usd_bbl,WTI(기말),2026-05-01,2026-05-01,0,no_new_ecos_rows,"stat=902Y003, items=010101"

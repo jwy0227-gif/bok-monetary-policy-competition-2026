@@ -1,0 +1,120 @@
+﻿feature,status,variable,source,detail
+CD(91일),BOK_OK,cd_91d,BOK ECOS,"rows=198, stat=721Y001, items=2010000; "
+CP(91일),BOK_OK,cp_91d,BOK ECOS,"rows=198, stat=721Y001, items=4020000; "
+Lf(금융기관유동성),BOK_OK,lf_tril_krw,BOK ECOS,"rows=196, stat=171Y004, items=LA00000; "
+M1(협의통화),BOK_OK,m1_tril_krw,BOK ECOS,"rows=196, stat=161Y002, items=BBLA00; "
+M2(광의통화),BOK_OK,m2_tril_krw,BOK ECOS,"rows=196, stat=161Y006, items=BBHA00; "
+WTI(기말),BOK_OK,wti_oil_usd_bbl,BOK ECOS,"rows=197, stat=902Y003, items=010101; ECOS 월별 국제상품가격"
+_단기외채,BOK_OK,external_debt_short_100m_usd,BOK ECOS,"rows=65, stat=311Y004, items=A500000; "
+_명목GDP,BOK_OK,nominal_gdp_tril_krw,BOK ECOS,"rows=65, stat=200Y107, items=10601; "
+_총외채,BOK_OK,external_debt_total_100m_usd,BOK ECOS,"rows=65, stat=311Y004, items=A000000; "
+가계신용 잔액,BOK_OK,household_credit_tril_krw,BOK ECOS,"rows=65, stat=151Y001, items=1000000; "
+가계신용(전분기대비 증감),BOK_OK,household_credit_qoq_change_tril_krw,BOK ECOS,"rows=64, stat=151Y001, items=1000000; "
+가공식품(전년동월비),BOK_OK,cpi_processed_food_yoy,BOK ECOS,"rows=186, stat=901Y010, items=2121; "
+개인서비스(전년동월비),BOK_OK,cpi_personal_services_yoy,BOK ECOS,"rows=186, stat=901Y010, items=223; "
+건설기성액(전년동월비),BOK_OK,construction_completed_yoy,BOK ECOS,"rows=185, stat=901Y104, items=I48A/I37B; 불변금액"
+경상수지,BOK_OK,current_account_100m_usd,BOK ECOS,"rows=196, stat=301Y013, items=000000; "
+공공요금(전년동월비),BOK_OK,cpi_public_services_yoy,BOK ECOS,"rows=186, stat=901Y010, items=222; 공공요금 대신 공공서비스 CPI"
+"공업제품(석유류제외,전년동월비)",BOK_OK,cpi_industrial_products_yoy,BOK ECOS,"rows=186, stat=901Y010, items=212; 석유류 제외가 아닌 공업제품 전체 지수"
+국고채(10년),BOK_OK,treasury_10y,BOK ECOS,"rows=198, stat=721Y001, items=5050000; "
+국고채(3년),BOK_OK,treasury_3y,BOK ECOS,"rows=198, stat=721Y001, items=5020000; "
+근원물가(식료품·에너지제외),BOK_OK,core_cpi_ex_food_energy_yoy,BOK ECOS,"rows=186, stat=901Y010, items=DB; "
+금리수준전망CSI,BOK_OK,interest_rate_outlook_csi,BOK ECOS,"rows=198, stat=511Y002, items=FMBG/99988; "
+기대인플레이션(1년),BOK_OK,expected_inflation_1y,BOK ECOS,"rows=198, stat=511Y003, items=FMB; "
+기대인플레이션-일반인(3년),BOK_OK,expected_inflation_3y,BOK ECOS,"rows=36, stat=511Y003, items=FMC; "
+기업경기실사지수(BSI),BOK_OK,business_survey_index_all_industry,BOK ECOS,"rows=198, stat=512Y007, items=AA/99988; "
+농축수산물(전년동월비),BOK_OK,cpi_agri_livestock_fishery_yoy,BOK ECOS,"rows=186, stat=901Y010, items=211; "
+대미 수출(전년동월비),BOK_OK,exports_to_us_yoy,BOK ECOS,"rows=185, stat=901Y121, items=T002/US; 국가별 통관 수출금액 기준"
+두바이유(기말),BOK_OK,dubai_oil_usd_bbl,BOK ECOS,"rows=197, stat=902Y003, items=010102; ECOS 월별 국제상품가격"
+미국 성장률(전기연율),BOK_OK,us_gdp_growth,BOK ECOS,"rows=65, stat=902Y015, items=USA; "
+미국 연준 정책금리(상단),BOK_OK,us_policy_rate_upper,BOK ECOS,"rows=197, stat=902Y006, items=US; "
+미국 정책금리(상단),BOK_OK,global_us_policy_rate,BOK ECOS,"rows=197, stat=902Y006, items=US; "
+본원통화,BOK_OK,monetary_base_tril_krw,BOK ECOS,"rows=197, stat=102Y002, items=ABA1; "
+브렌트유(기말),BOK_OK,brent_oil_usd_bbl,BOK ECOS,"rows=197, stat=902Y003, items=010103; ECOS 월별 국제상품가격"
+상품수지,BOK_OK,goods_account_100m_usd,BOK ECOS,"rows=196, stat=301Y013, items=100000; "
+생산자물가(전년동월비),BOK_OK,ppi_yoy,BOK ECOS,"rows=185, stat=404Y014, items=*AA; "
+생활물가(전년동월비),BOK_OK,living_cpi_yoy,BOK ECOS,"rows=186, stat=901Y010, items=110; "
+서비스수지,BOK_OK,services_account_100m_usd,BOK ECOS,"rows=196, stat=301Y013, items=200000; "
+서비스업생산지수(전년동월비),BOK_OK,service_production_yoy,BOK ECOS,"rows=185, stat=901Y038, items=I51A/2; 불변지수"
+서울 아파트매매가격(전월비),BOK_OK,kb_apartment_price_seoul_mom,BOK ECOS,"rows=197, stat=901Y062, items=P63ACA; BOK의 KB 주택매매가격지수"
+석유류(전년동월비),BOK_OK,cpi_petroleum_yoy,BOK ECOS,"rows=186, stat=901Y010, items=2125; "
+설비투자지수(전년동월비),BOK_OK,facility_investment_yoy,BOK ECOS,"rows=185, stat=901Y066, items=I15A; "
+소매판매액지수(전년동월비),BOK_OK,retail_sales_yoy,BOK ECOS,"rows=185, stat=901Y100, items=G0/T2; 불변지수"
+소비자물가(전년동월비),BOK_OK,cpi_yoy,BOK ECOS,"rows=186, stat=901Y009, items=0; "
+소비자심리지수(CCSI),BOK_OK,ccsi,BOK ECOS,"rows=198, stat=511Y002, items=FME; "
+수입(전년동월비),BOK_OK,customs_imports_yoy,BOK ECOS,"rows=185, stat=901Y118, items=T004; 통관 수입금액 기준"
+수입금액지수(전년동월비),BOK_OK,import_value_index_yoy,BOK ECOS,"rows=185, stat=403Y003, items=*AA; BOK 추가수집: 무역지수 총지수"
+수입물량지수(전년동월비),BOK_OK,import_volume_index_yoy,BOK ECOS,"rows=185, stat=403Y004, items=*AA; BOK 추가수집: 무역지수 총지수"
+수출(전년동월비),BOK_OK,customs_exports_yoy,BOK ECOS,"rows=185, stat=901Y118, items=T002; 통관 수출금액 기준"
+수출금액지수(전년동월비),BOK_OK,export_value_index_yoy,BOK ECOS,"rows=185, stat=403Y001, items=*AA; BOK 추가수집: 무역지수 총지수"
+수출물량지수(전년동월비),BOK_OK,export_volume_index_yoy,BOK ECOS,"rows=185, stat=403Y002, items=*AA; BOK 추가수집: 무역지수 총지수"
+실질 GDP(전기대비),BOK_OK,real_gdp_qoq,BOK ECOS,"rows=65, stat=200Y102, items=10111; BOK 주요지표 분기지표"
+실질 GDP(전년동기대비),BOK_OK,real_gdp_yoy,BOK ECOS,"rows=65, stat=200Y102, items=10211; BOK 주요지표 분기지표"
+실질 GNI(전기대비),BOK_OK,real_gni_qoq,BOK ECOS,"rows=65, stat=200Y102, items=20112; BOK 주요지표 분기지표"
+외국인 주식순매수,BOK_OK,foreign_stock_net_buy_tril_krw,BOK ECOS,"rows=197, stat=901Y055, items=S22CC/VA; 투자자별 주식거래, 거래대금 순매수"
+외환보유액,BOK_OK,fx_reserves_100m_usd,BOK ECOS,"rows=198, stat=732Y001, items=99; "
+원/달러 환율(기말),BOK_OK,krw_usd_eom,BOK ECOS,"rows=198, stat=731Y006, items=0000003/0000200; "
+원/엔 환율(100엔),BOK_OK,krw_jpy_100_eom,BOK ECOS,"rows=198, stat=731Y006, items=0000006/0000200; "
+원/위안 환율,BOK_OK,krw_cny_eom,BOK ECOS,"rows=138, stat=731Y006, items=0000010/0000200; "
+유로 정책금리,BOK_OK,euro_policy_rate,BOK ECOS,"rows=197, stat=902Y006, items=XM; "
+일본 성장률(전기대비),BOK_OK,japan_gdp_growth,BOK ECOS,"rows=65, stat=902Y015, items=JPN; "
+일본 정책금리,BOK_OK,japan_policy_rate,BOK ECOS,"rows=157, stat=902Y006, items=JP; "
+전국 주택매매가격(전월비),BOK_OK,kb_housing_price_national_mom,BOK ECOS,"rows=197, stat=901Y062, items=P63A; BOK의 KB 주택매매가격지수"
+전세가격지수(전월비),BOK_OK,kb_jeonse_price_national_mom,BOK ECOS,"rows=197, stat=901Y063, items=P64A; BOK의 KB 주택전세가격지수"
+제조업생산지수(전년동월비),BOK_OK,manufacturing_production_yoy,BOK ECOS,"rows=185, stat=901Y033, items=AB00/1; 광공업 생산지수 원계열"
+제조업평균가동률,BOK_OK,manufacturing_avg_operation_rate,BOK ECOS,"rows=197, stat=901Y025, items=I31A; "
+주택가격전망CSI(수도권),BOK_OK,housing_price_outlook_csi,BOK ECOS,"rows=162, stat=511Y002, items=FMFB/99988; 전국 소비자동향조사 항목"
+주택담보대출 잔액,BOK_OK,housing_related_loans_tril_krw,BOK ECOS,"rows=65, stat=151Y004, items=11000A0; 분기 가계신용 용도별 주택관련대출"
+중국 성장률(전년동기),BOK_OK,china_gdp_growth,BOK ECOS,"rows=61, stat=902Y015, items=CHN; "
+채권거래 합계(거래대금),BOK_OK,bond_total_trading_value_tril_krw,BOK ECOS,"rows=198, stat=901Y120, items=AMT/020101; BOK 추가수집: 채권시장별 거래"
+코스닥,BOK_OK,kosdaq_close,BOK ECOS,"rows=197, stat=901Y014, items=2090000; 월말 종가"
+코스피,BOK_OK,kospi_close,BOK ECOS,"rows=197, stat=901Y014, items=1070000; 월말 종가"
+콜금리(익일물),BOK_OK,call_rate_overnight,BOK ECOS,"rows=198, stat=721Y001, items=1010000; "
+한국은행 기준금리,BOK_OK,bok_base_rate,BOK ECOS,"rows=198, stat=722Y001, items=0101000; "
+회사채 거래대금,BOK_OK,corporate_bond_trading_value_tril_krw,BOK ECOS,"rows=198, stat=901Y015, items=7/2040000; BOK 추가수집: 채권종류별 거래"
+"회사채(3년,AA-)",BOK_OK,corp_bond_3y_aa_minus,BOK ECOS,"rows=198, stat=721Y001, items=7020000; "
+M2증가율(전년동월비),CALCULATED_OK,m2_yoy,calculated from BOK ECOS,rows=187
+국고3년-기준금리 스프레드,CALCULATED_OK,treasury_3y_base_rate_spread,calculated from BOK ECOS,rows=198
+내외 금리차(한-미),CALCULATED_OK,kor_us_policy_rate_gap,calculated from BOK ECOS,rows=197
+단기외채/총외채 비율,CALCULATED_OK,short_external_debt_ratio,calculated from BOK ECOS,rows=65
+명목GDP대비 가계신용 비율,CALCULATED_OK,household_credit_to_nominal_gdp,calculated from BOK ECOS,rows=65
+장단기금리차(10년-3년),CALCULATED_OK,yield_spread_10y_3y,calculated from BOK ECOS,rows=198
+주담대 월평균 증감,CALCULATED_OK,housing_related_loans_monthly_avg_change,calculated from BOK ECOS,rows=64
+회사채 스프레드(AA--국고3년),CALCULATED_OK,corp_bond_aa_minus_spread,calculated from BOK ECOS,rows=198
+미국 근원PCE(전년동월비),EXTERNAL_OK,us_core_pce_yoy,FRED: Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index),rows=185
+"BEI(10년물,기대인플레)",NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+IT부문 특별급여(전년동기비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+IT외 임금(전년동기비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+가계대출 연체율(비은행),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+가계대출 연체율(은행),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+건설업 취업자(전년동월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+고용률(15세이상),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+금융불안지수(FSI),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+금융취약성지수(FVI),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+"기대인플레이션-전문가(1년,BOK)",NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+기업대출 연체율(중소·자영업),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+기업대출 증가율(전년동월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+달러인덱스(DXY),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+로이터 상품가격지수(CRB),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+"명목임금(전체,전년동기비)",NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+물가안정목표,NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+반도체 수출(전년동월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+부동산PF 연체율,NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+부동산PF 익스포저,NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+상하이컨테이너운임지수(SCFI),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+선박 수출(전년동월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+세계 성장률 전망(IMF),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+수도권 주택매매가격(전월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+실업률,NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+외국인 국내주식 보유규모,NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+외국인 채권순투자,NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+유로존 성장률(전기대비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+자동차 수출(전년동월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+제조업 명목임금(전년동월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+제조업 취업자(전년동월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+주택 매매거래량(전국),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+청년 고용률,NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+청년 실업률,NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+청년층(15~29)취업자(전년동월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+취업자수(전년동월비),NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.
+회사채 순발행,NOT_COLLECTED,,,BOK 직접 매핑/계산 스펙 없음. 외부 출처 확인 필요.

@@ -1,0 +1,6 @@
+﻿date,period,feature,variable,value,source,stat_code,item_codes,note
+2026-01-01,202601,소매판매액지수(전년동월비),retail_sales_yoy,0.4990019960079861,BOK ECOS,901Y100,G0/T2,불변지수
+2026-02-01,202602,소매판매액지수(전년동월비),retail_sales_yoy,4.175588865096347,BOK ECOS,901Y100,G0/T2,불변지수
+2026-03-01,202603,소매판매액지수(전년동월비),retail_sales_yoy,5.024154589371976,BOK ECOS,901Y100,G0/T2,불변지수
+2026-04-01,202604,소매판매액지수(전년동월비),retail_sales_yoy,1.5904572564612307,BOK ECOS,901Y100,G0/T2,불변지수
+2026-05-01,202605,소매판매액지수(전년동월비),retail_sales_yoy,1.7257909875359578,BOK ECOS,901Y100,G0/T2,불변지수

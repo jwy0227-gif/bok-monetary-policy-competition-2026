@@ -1,0 +1,10 @@
+﻿date,period,series,variable,value,unit,source,stat_code,item_code,item_name
+2025-09-01,202509,설비투자지수,facility_investment_index,122.5,2020=100,BOK ECOS,901Y066,I15A,원지수
+2025-10-01,202510,설비투자지수,facility_investment_index,104.9,2020=100,BOK ECOS,901Y066,I15A,원지수
+2025-11-01,202511,설비투자지수,facility_investment_index,113.2,2020=100,BOK ECOS,901Y066,I15A,원지수
+2025-12-01,202512,설비투자지수,facility_investment_index,124.3,2020=100,BOK ECOS,901Y066,I15A,원지수
+2026-01-01,202601,설비투자지수,facility_investment_index,104.2,2020=100,BOK ECOS,901Y066,I15A,원지수
+2026-02-01,202602,설비투자지수,facility_investment_index,110.3,2020=100,BOK ECOS,901Y066,I15A,원지수
+2026-03-01,202603,설비투자지수,facility_investment_index,137.8,2020=100,BOK ECOS,901Y066,I15A,원지수
+2026-04-01,202604,설비투자지수,facility_investment_index,128.5,2020=100,BOK ECOS,901Y066,I15A,원지수
+2026-05-01,202605,설비투자지수,facility_investment_index,122.7,2020=100,BOK ECOS,901Y066,I15A,원지수

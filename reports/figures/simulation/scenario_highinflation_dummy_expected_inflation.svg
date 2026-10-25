@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial, sans-serif;fill:#222}.grid{stroke:#ddd;stroke-width:1}.threshold{stroke:#111;stroke-width:1.6;stroke-dasharray:7 5}.series{fill:none;stroke-width:2.8}</style>
+<text x="82" y="30" font-size="18" font-weight="700">고인플레 더미 모형: 기대인플레이션 전망</text>
+<text x="82" y="50" font-size="12" fill="#555">VAR(3)+고인플레 국면 더미, 기준 기대인플레이션 2.6%</text>
+<line class="grid" x1="82" y1="70.00" x2="946" y2="70.00"/>
+<text x="72" y="74.00" font-size="11" text-anchor="end">3.05</text>
+<line class="grid" x1="82" y1="145.60" x2="946" y2="145.60"/>
+<text x="72" y="149.60" font-size="11" text-anchor="end">2.95</text>
+<line class="grid" x1="82" y1="221.20" x2="946" y2="221.20"/>
+<text x="72" y="225.20" font-size="11" text-anchor="end">2.85</text>
+<line class="grid" x1="82" y1="296.80" x2="946" y2="296.80"/>
+<text x="72" y="300.80" font-size="11" text-anchor="end">2.75</text>
+<line class="grid" x1="82" y1="372.40" x2="946" y2="372.40"/>
+<text x="72" y="376.40" font-size="11" text-anchor="end">2.65</text>
+<line class="grid" x1="82" y1="448.00" x2="946" y2="448.00"/>
+<text x="72" y="452.00" font-size="11" text-anchor="end">2.55</text>
+<line class="threshold" x1="82" y1="106.58" x2="946" y2="106.58"/>
+<text x="942" y="99.58" font-size="12" text-anchor="end">3.0% 임계선</text>
+<line class="grid" x1="82.00" y1="70" x2="82.00" y2="448"/>
+<text x="82.00" y="484" font-size="11" text-anchor="middle">T+0</text>
+<line class="grid" x1="190.00" y1="70" x2="190.00" y2="448"/>
+<text x="190.00" y="484" font-size="11" text-anchor="middle">T+3</text>
+<line class="grid" x1="298.00" y1="70" x2="298.00" y2="448"/>
+<text x="298.00" y="484" font-size="11" text-anchor="middle">T+6</text>
+<line class="grid" x1="406.00" y1="70" x2="406.00" y2="448"/>
+<text x="406.00" y="484" font-size="11" text-anchor="middle">T+9</text>
+<line class="grid" x1="514.00" y1="70" x2="514.00" y2="448"/>
+<text x="514.00" y="484" font-size="11" text-anchor="middle">T+12</text>
+<line class="grid" x1="730.00" y1="70" x2="730.00" y2="448"/>
+<text x="730.00" y="484" font-size="11" text-anchor="middle">T+18</text>
+<line class="grid" x1="946.00" y1="70" x2="946.00" y2="448"/>
+<text x="946.00" y="484" font-size="11" text-anchor="middle">T+24</text>
+<polyline class="series" stroke="#0072B2" points="82.00,411.42 118.00,263.71 154.00,303.62 190.00,324.84 226.00,239.27 262.00,328.05 298.00,329.55 334.00,346.46 370.00,373.29 406.00,373.53 442.00,374.45 478.00,382.28 514.00,383.56 550.00,385.87 586.00,387.56 622.00,389.20 658.00,390.71 694.00,392.23 730.00,393.62 766.00,394.89 802.00,396.05 838.00,397.14 874.00,398.16 910.00,399.10 946.00,399.98"/>
+<line x1="82" y1="502" x2="118" y2="502" stroke="#0072B2" stroke-width="3"/>
+<text x="126" y="506" font-size="12">기준 시나리오</text>
+<polyline class="series" stroke="#D55E00" points="82.00,411.42 118.00,263.71 154.00,303.62 190.00,324.84 226.00,227.55 262.00,290.67 298.00,292.90 334.00,305.83 370.00,311.67 406.00,318.75 442.00,324.22 478.00,330.77 514.00,336.72 550.00,342.20 586.00,347.03 622.00,351.55 658.00,355.79 694.00,359.77 730.00,363.45 766.00,366.87 802.00,370.03 838.00,372.97 874.00,375.71 910.00,378.25 946.00,380.61"/>
+<line x1="352" y1="502" x2="388" y2="502" stroke="#D55E00" stroke-width="3"/>
+<text x="396" y="506" font-size="12">고유가 장기화 시나리오</text>
+<polyline class="series" stroke="#009E73" points="82.00,411.42 118.00,263.71 154.00,303.62 190.00,324.84 226.00,251.60 262.00,342.16 298.00,342.10 334.00,366.46 370.00,397.62 406.00,396.66 442.00,395.22 478.00,405.96 514.00,404.71 550.00,405.66 586.00,405.76 622.00,406.10 658.00,406.39 694.00,406.85 730.00,407.20 766.00,407.50 802.00,407.76 838.00,408.01 874.00,408.26 910.00,408.49 946.00,408.70"/>
+<line x1="622" y1="502" x2="658" y2="502" stroke="#009E73" stroke-width="3"/>
+<text x="666" y="506" font-size="12">유가 안정 시나리오</text>
+</svg>

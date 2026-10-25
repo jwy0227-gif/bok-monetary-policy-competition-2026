@@ -1,0 +1,5 @@
+﻿var_lag,test_lags,test,test_statistic,critical_value_5pct,p_value,df,decision_5pct
+3,6,Adjusted Portmanteau residual autocorrelation test,73.4188492753108,65.17076890356982,0.010554936214458023,48,reject autocorrelation-free residuals
+3,12,Adjusted Portmanteau residual autocorrelation test,179.03338611833757,173.00405909424495,0.025240301608257958,144,reject autocorrelation-free residuals
+3,18,Adjusted Portmanteau residual autocorrelation test,282.9637647933878,277.1376495425369,0.029722638687569025,240,reject autocorrelation-free residuals
+3,24,Adjusted Portmanteau residual autocorrelation test,402.13902608864817,379.7458775291925,0.007628566053557311,336,reject autocorrelation-free residuals

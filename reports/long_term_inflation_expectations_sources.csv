@@ -1,0 +1,3 @@
+﻿variable,label,stat_code,stat_name,item_code,item_name,unit
+expected_inflation_3y,3년후 기대인플레이션율,511Y003,"6.2.3. 기대인플레이션율(전국, 월)",FMC,3년후 기대인플레이션율,%
+expected_inflation_5y,5년후 기대인플레이션율,511Y003,"6.2.3. 기대인플레이션율(전국, 월)",FMD,5년후 기대인플레이션율,%

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial, sans-serif;fill:#222}.grid{stroke:#ddd;stroke-width:1}.threshold{stroke:#111;stroke-width:1.6;stroke-dasharray:7 5}.series{fill:none;stroke-width:2.8}</style>
+<text x="82" y="30" font-size="18" font-weight="700">2026년 분기별 유가 시나리오</text>
+<text x="82" y="50" font-size="12" fill="#555">2026년 3~5월 실제·지정값 이후 분기별 전제를 월별 경로로 변환</text>
+<text x="20" y="82" font-size="12" fill="#555">달러/배럴</text>
+<line class="grid" x1="82" y1="70.00" x2="946" y2="70.00"/>
+<text x="72" y="74.00" font-size="11" text-anchor="end">132.32</text>
+<line class="grid" x1="82" y1="145.60" x2="946" y2="145.60"/>
+<text x="72" y="149.60" font-size="11" text-anchor="end">120.73</text>
+<line class="grid" x1="82" y1="221.20" x2="946" y2="221.20"/>
+<text x="72" y="225.20" font-size="11" text-anchor="end">109.15</text>
+<line class="grid" x1="82" y1="296.80" x2="946" y2="296.80"/>
+<text x="72" y="300.80" font-size="11" text-anchor="end">97.56</text>
+<line class="grid" x1="82" y1="372.40" x2="946" y2="372.40"/>
+<text x="72" y="376.40" font-size="11" text-anchor="end">85.98</text>
+<line class="grid" x1="82" y1="448.00" x2="946" y2="448.00"/>
+<text x="72" y="452.00" font-size="11" text-anchor="end">74.39</text>
+<line class="grid" x1="82.00" y1="70" x2="82.00" y2="448"/>
+<text x="82.00" y="484" font-size="11" text-anchor="middle">T+0</text>
+<line class="grid" x1="190.00" y1="70" x2="190.00" y2="448"/>
+<text x="190.00" y="484" font-size="11" text-anchor="middle">T+3</text>
+<line class="grid" x1="298.00" y1="70" x2="298.00" y2="448"/>
+<text x="298.00" y="484" font-size="11" text-anchor="middle">T+6</text>
+<line class="grid" x1="406.00" y1="70" x2="406.00" y2="448"/>
+<text x="406.00" y="484" font-size="11" text-anchor="middle">T+9</text>
+<line class="grid" x1="514.00" y1="70" x2="514.00" y2="448"/>
+<text x="514.00" y="484" font-size="11" text-anchor="middle">T+12</text>
+<line class="grid" x1="730.00" y1="70" x2="730.00" y2="448"/>
+<text x="730.00" y="484" font-size="11" text-anchor="middle">T+18</text>
+<line class="grid" x1="946.00" y1="70" x2="946.00" y2="448"/>
+<text x="946.00" y="484" font-size="11" text-anchor="middle">T+24</text>
+<polyline class="series" stroke="#0072B2" points="82.00,106.58 118.00,246.31 154.00,280.90 190.00,280.90 226.00,346.16 262.00,346.16 298.00,346.16 334.00,365.74 370.00,365.74 406.00,365.74 442.00,365.74 478.00,365.74 514.00,365.74 550.00,365.74 586.00,365.74 622.00,365.74 658.00,365.74 694.00,365.74 730.00,365.74 766.00,365.74 802.00,365.74 838.00,365.74 874.00,365.74 910.00,365.74 946.00,365.74"/>
+<line x1="82" y1="502" x2="118" y2="502" stroke="#0072B2" stroke-width="3"/>
+<text x="126" y="506" font-size="12">기준 시나리오</text>
+<polyline class="series" stroke="#D55E00" points="82.00,106.58 118.00,246.31 154.00,248.26 190.00,248.26 226.00,248.26 262.00,248.26 298.00,248.26 334.00,248.26 370.00,248.26 406.00,248.26 442.00,248.26 478.00,248.26 514.00,248.26 550.00,248.26 586.00,248.26 622.00,248.26 658.00,248.26 694.00,248.26 730.00,248.26 766.00,248.26 802.00,248.26 838.00,248.26 874.00,248.26 910.00,248.26 946.00,248.26"/>
+<line x1="352" y1="502" x2="388" y2="502" stroke="#D55E00" stroke-width="3"/>
+<text x="396" y="506" font-size="12">고유가 장기화 시나리오</text>
+<polyline class="series" stroke="#009E73" points="82.00,106.58 118.00,246.31 154.00,313.53 190.00,313.53 226.00,378.79 262.00,378.79 298.00,378.79 334.00,411.42 370.00,411.42 406.00,411.42 442.00,411.42 478.00,411.42 514.00,411.42 550.00,411.42 586.00,411.42 622.00,411.42 658.00,411.42 694.00,411.42 730.00,411.42 766.00,411.42 802.00,411.42 838.00,411.42 874.00,411.42 910.00,411.42 946.00,411.42"/>
+<line x1="622" y1="502" x2="658" y2="502" stroke="#009E73" stroke-width="3"/>
+<text x="666" y="506" font-size="12">유가 안정 시나리오</text>
+</svg>

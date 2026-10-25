@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial, sans-serif;fill:#222}.grid{stroke:#ddd;stroke-width:1}.axis{stroke:#555;stroke-width:1}.zero{stroke:#333;stroke-width:1.2}.one{fill:none;stroke:#0072B2;stroke-width:2.7}.persist{fill:none;stroke:#D55E00;stroke-width:2.7}.band{fill:#0072B2;fill-opacity:.16;stroke:none}</style>
+<text x="82" y="30" font-size="18" font-weight="700">Hormuz oil shock simulation</text>
+<text x="82" y="50" font-size="12" fill="#555">Expected inflation response, one-off shock vs. persistent KDI high-oil scenario</text>
+<line class="grid" x1="82" y1="64.00" x2="948" y2="64.00"/>
+<text x="72" y="68.00" font-size="11" text-anchor="end">0.90</text>
+<line class="grid" x1="82" y1="142.80" x2="948" y2="142.80"/>
+<text x="72" y="146.80" font-size="11" text-anchor="end">0.67</text>
+<line class="grid" x1="82" y1="221.60" x2="948" y2="221.60"/>
+<text x="72" y="225.60" font-size="11" text-anchor="end">0.44</text>
+<line class="grid" x1="82" y1="300.40" x2="948" y2="300.40"/>
+<text x="72" y="304.40" font-size="11" text-anchor="end">0.21</text>
+<line class="grid" x1="82" y1="379.20" x2="948" y2="379.20"/>
+<text x="72" y="383.20" font-size="11" text-anchor="end">-0.03</text>
+<line class="grid" x1="82" y1="458.00" x2="948" y2="458.00"/>
+<text x="72" y="462.00" font-size="11" text-anchor="end">-0.26</text>
+<line class="zero" x1="82" y1="370.52" x2="948" y2="370.52"/>
+<polygon class="band" points="82.00,331.22 118.08,227.96 154.17,174.12 190.25,148.85 226.33,102.13 262.42,102.62 298.50,111.56 334.58,125.13 370.67,133.99 406.75,140.88 442.83,145.69 478.92,151.12 515.00,156.71 551.08,162.28 587.17,167.27 623.25,171.85 659.33,176.14 695.42,180.27 731.50,184.22 767.58,187.99 803.67,191.59 839.75,195.04 875.83,198.37 911.92,201.60 948.00,204.73 948.00,379.46 911.92,377.32 875.83,375.10 839.75,372.81 803.67,370.47 767.58,368.07 731.50,365.61 695.42,363.10 659.33,360.59 623.25,358.17 587.17,355.82 551.08,353.45 515.00,350.74 478.92,348.04 442.83,345.74 406.75,345.38 370.67,345.41 334.58,344.61 298.50,336.15 262.42,329.89 226.33,326.70 190.25,351.16 154.17,339.72 118.08,361.74 82.00,419.87"/>
+<polyline class="one" points="82.00,375.54 118.08,294.85 154.17,256.92 190.25,250.00 226.33,214.41 262.42,216.25 298.50,223.85 334.58,234.87 370.67,239.70 406.75,243.13 442.83,245.71 478.92,249.58 515.00,253.73 551.08,257.87 587.17,261.55 623.25,265.01 659.33,268.36 695.42,271.68 731.50,274.91 767.58,278.03 803.67,281.03 839.75,283.93 875.83,286.74 911.92,289.46 948.00,292.09"/>
+<polyline class="persist" points="82.00,375.54 118.08,293.34 154.17,279.67 190.25,284.55 226.33,251.22 262.42,263.80 298.50,271.01 334.58,279.73 370.67,281.21 406.75,283.14 442.83,284.66 478.92,287.74 515.00,290.71 551.08,293.58 587.17,296.00 623.25,298.34 659.33,300.63 695.42,302.92 731.50,305.14 767.58,307.27 803.67,309.31 839.75,311.29 875.83,313.22 911.92,315.08 948.00,316.88"/>
+<line class="grid" x1="82.00" y1="64" x2="82.00" y2="458"/>
+<text x="82.00" y="492" font-size="11" text-anchor="middle">T+0</text>
+<line class="grid" x1="190.25" y1="64" x2="190.25" y2="458"/>
+<text x="190.25" y="492" font-size="11" text-anchor="middle">T+3</text>
+<line class="grid" x1="298.50" y1="64" x2="298.50" y2="458"/>
+<text x="298.50" y="492" font-size="11" text-anchor="middle">T+6</text>
+<line class="grid" x1="406.75" y1="64" x2="406.75" y2="458"/>
+<text x="406.75" y="492" font-size="11" text-anchor="middle">T+9</text>
+<line class="grid" x1="515.00" y1="64" x2="515.00" y2="458"/>
+<text x="515.00" y="492" font-size="11" text-anchor="middle">T+12</text>
+<line class="grid" x1="731.50" y1="64" x2="731.50" y2="458"/>
+<text x="731.50" y="492" font-size="11" text-anchor="middle">T+18</text>
+<line class="grid" x1="948.00" y1="64" x2="948.00" y2="458"/>
+<text x="948.00" y="492" font-size="11" text-anchor="middle">T+24</text>
+<line x1="97" y1="503" x2="137" y2="503" stroke="#0072B2" stroke-width="3"/>
+<text x="145" y="507" font-size="12">1회성 충격</text>
+<line x1="252" y1="503" x2="292" y2="503" stroke="#D55E00" stroke-width="3"/>
+<text x="300" y="507" font-size="12">지속적 충격</text>
+</svg>

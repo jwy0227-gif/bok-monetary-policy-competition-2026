@@ -1,0 +1,3 @@
+﻿variable,label,stat_code,stat_name,item_code,item_name,unit
+cpi_index,소비자물가지수,901Y009,4.2.1. 소비자물가지수,0,총지수,2020=100
+core_cpi_index,근원물가지수(식료품 및 에너지 제외),901Y010,4.2.2. 소비자물가지수(특수분류),DB,식료품 및 에너지제외 지수 3),2020=100

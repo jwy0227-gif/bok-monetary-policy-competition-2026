@@ -1,0 +1,4 @@
+﻿shock_to_response,max_response,max_response_horizon,significant_periods_95,unit
+유가 → 기대인플레이션,0.06015690582007244,4,T+1~T+20,%p
+유가 → CPI,0.12187310631924858,1,T+1,%p
+유가 → 환율,0.12669219767128836,3,없음,%p

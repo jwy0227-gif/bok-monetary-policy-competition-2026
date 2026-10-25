@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial, sans-serif;fill:#222}.grid{stroke:#ddd}.base{stroke:#333;stroke-width:1.2}.thr{stroke:#111;stroke-width:1.6;stroke-dasharray:7 5}.series{fill:none;stroke-width:2.8}</style>
+<text x="82" y="30" font-size="18" font-weight="700">YoY model scenario: expected inflation level</text>
+<text x="82" y="50" font-size="12">Baseline 2.6%, threshold 3.0%, oil scenarios from table</text>
+<line class="grid" x1="82" y1="66.00" x2="948" y2="66.00"/>
+<text x="72" y="70.00" font-size="11" text-anchor="end">8.51</text>
+<line class="grid" x1="82" y1="142.80" x2="948" y2="142.80"/>
+<text x="72" y="146.80" font-size="11" text-anchor="end">7.20</text>
+<line class="grid" x1="82" y1="219.60" x2="948" y2="219.60"/>
+<text x="72" y="223.60" font-size="11" text-anchor="end">5.89</text>
+<line class="grid" x1="82" y1="296.40" x2="948" y2="296.40"/>
+<text x="72" y="300.40" font-size="11" text-anchor="end">4.58</text>
+<line class="grid" x1="82" y1="373.20" x2="948" y2="373.20"/>
+<text x="72" y="377.20" font-size="11" text-anchor="end">3.28</text>
+<line class="grid" x1="82" y1="450.00" x2="948" y2="450.00"/>
+<text x="72" y="454.00" font-size="11" text-anchor="end">1.97</text>
+<line class="base" x1="82" y1="412.84" x2="948" y2="412.84"/>
+<line class="thr" x1="82" y1="389.36" x2="948" y2="389.36"/>
+<text x="944" y="382.36" font-size="12" text-anchor="end">anchoring threshold: 3.0%</text>
+<text x="944" y="427.84" font-size="12" text-anchor="end">baseline: 2.6%</text>
+<line class="grid" x1="82.00" y1="66" x2="82.00" y2="450"/>
+<text x="82.00" y="486" font-size="11" text-anchor="middle">T+0</text>
+<line class="grid" x1="190.25" y1="66" x2="190.25" y2="450"/>
+<text x="190.25" y="486" font-size="11" text-anchor="middle">T+3</text>
+<line class="grid" x1="298.50" y1="66" x2="298.50" y2="450"/>
+<text x="298.50" y="486" font-size="11" text-anchor="middle">T+6</text>
+<line class="grid" x1="406.75" y1="66" x2="406.75" y2="450"/>
+<text x="406.75" y="486" font-size="11" text-anchor="middle">T+9</text>
+<line class="grid" x1="515.00" y1="66" x2="515.00" y2="450"/>
+<text x="515.00" y="486" font-size="11" text-anchor="middle">T+12</text>
+<line class="grid" x1="731.50" y1="66" x2="731.50" y2="450"/>
+<text x="731.50" y="486" font-size="11" text-anchor="middle">T+18</text>
+<line class="grid" x1="948.00" y1="66" x2="948.00" y2="450"/>
+<text x="948.00" y="486" font-size="11" text-anchor="middle">T+24</text>
+<polyline class="series" stroke="#0072B2" points="82.00,412.60 118.08,406.05 154.17,394.04 190.25,379.70 226.33,367.27 262.42,358.08 298.50,350.29 334.58,342.99 370.67,335.07 406.75,326.26 442.83,316.57 478.92,306.41 515.00,297.46 551.08,296.60 587.17,301.79 623.25,308.37 659.33,313.15 695.42,315.69 731.50,317.28 767.58,318.53 803.67,319.72 839.75,320.97 875.83,322.32 911.92,323.82 948.00,325.53"/>
+<line x1="82" y1="504" x2="118" y2="504" stroke="#0072B2" stroke-width="3"/>
+<text x="126" y="508" font-size="12">S1: 조기 종전</text>
+<polyline class="series" stroke="#D55E00" points="82.00,412.60 118.08,406.05 154.17,394.04 190.25,379.66 226.33,366.15 262.42,354.63 298.50,343.74 334.58,332.79 370.67,320.79 406.75,307.52 442.83,293.01 478.92,277.72 515.00,263.31 551.08,256.71 587.17,255.88 623.25,256.22 659.33,255.54 695.42,253.64 731.50,251.35 767.58,249.07 803.67,246.98 839.75,245.16 875.83,243.65 911.92,242.58 948.00,242.10"/>
+<line x1="342" y1="504" x2="378" y2="504" stroke="#D55E00" stroke-width="3"/>
+<text x="386" y="508" font-size="12">S2: 봉쇄 장기화</text>
+<polyline class="series" stroke="#CC79A7" points="82.00,412.60 118.08,406.05 154.17,394.04 190.25,379.52 226.33,362.10 262.42,342.54 298.50,321.64 334.58,299.74 370.67,276.29 406.75,251.30 442.83,224.93 478.92,197.69 515.00,171.29 551.08,152.68 587.17,139.86 623.25,128.37 659.33,119.71 695.42,114.03 731.50,110.06 767.58,107.18 803.67,105.14 839.75,103.82 875.83,103.16 911.92,103.30 948.00,104.38"/>
+<line x1="602" y1="504" x2="638" y2="504" stroke="#CC79A7" stroke-width="3"/>
+<text x="646" y="508" font-size="12">S3: 에너지 시설 타격</text>
+</svg>

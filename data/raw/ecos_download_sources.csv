@@ -1,0 +1,5 @@
+﻿variable,label,stat_code,stat_name,item_code1,item_name1,unit
+dubai_oil_usd_bbl,두바이유 월평균,902Y003,9.1.6.3. 국제상품가격,010102,원유- Dubai,달러/배럴
+exchange_rate_krw_usd,원/달러 환율 월평균,731Y004,3.1.2.1. 주요국 통화의 대원화환율,0000001,원/미국달러(매매기준율),원
+cpi,소비자물가지수 총지수,901Y009,4.2.1. 소비자물가지수,0,총지수,2020=100
+expected_inflation_1y,향후1년 기대인플레이션율,511Y003,"6.2.3. 기대인플레이션율(전국, 월)",FMB,향후1년 기대인플레이션율,%

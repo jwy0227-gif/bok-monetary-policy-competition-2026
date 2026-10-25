@@ -1,0 +1,6 @@
+﻿label,group,variable,period,current,previous,yoy_pct,source
+건설수주,수주,construction_orders_total,2026.1-4월,67290228.0,48979806.0,37.383614790144335,BOK ECOS
+공공수주,수주,construction_orders_public,2026.1-4월,14942392.0,9404312.0,58.888731041675356,BOK ECOS
+민간수주,수주,construction_orders_private,2026.1-4월,50743245.0,39489803.0,28.4970831584042,BOK ECOS
+건축착공,착공,building_starts_area,2026.1-4월,24656829.48,23606604.439999998,4.4488610916886495,BOK ECOS
+건축허가,허가,building_permits_area,2026.1-4월,31558002.81,32745372.310000002,-3.6260681013463247,BOK ECOS

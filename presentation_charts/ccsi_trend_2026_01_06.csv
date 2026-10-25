@@ -1,0 +1,7 @@
+﻿date,period,feature,variable,value,source,stat_code,item_codes,note
+2026-01-01,202601,소비자심리지수(CCSI),ccsi,110.8,BOK ECOS,511Y002,FME,
+2026-02-01,202602,소비자심리지수(CCSI),ccsi,112.1,BOK ECOS,511Y002,FME,
+2026-03-01,202603,소비자심리지수(CCSI),ccsi,107.0,BOK ECOS,511Y002,FME,
+2026-04-01,202604,소비자심리지수(CCSI),ccsi,99.2,BOK ECOS,511Y002,FME,
+2026-05-01,202605,소비자심리지수(CCSI),ccsi,106.1,BOK ECOS,511Y002,FME,
+2026-06-01,202606,소비자심리지수(CCSI),ccsi,106.6,BOK ECOS,511Y002,FME,

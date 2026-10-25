@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial, sans-serif;fill:#222}.grid{stroke:#ddd;stroke-width:1}.zero{stroke:#333;stroke-width:1.2}.series{fill:none;stroke-width:2.8}</style>
+<text x="82" y="30" font-size="18" font-weight="700">Persistent oil-price scenarios: expected inflation IRF</text>
+<text x="82" y="50" font-size="12" fill="#555">Based on scenario table oil-price paths, Cholesky VAR(3)</text>
+<line class="grid" x1="82" y1="66.00" x2="948" y2="66.00"/>
+<text x="72" y="70.00" font-size="11" text-anchor="end">0.57</text>
+<line class="grid" x1="82" y1="142.80" x2="948" y2="142.80"/>
+<text x="72" y="146.80" font-size="11" text-anchor="end">0.44</text>
+<line class="grid" x1="82" y1="219.60" x2="948" y2="219.60"/>
+<text x="72" y="223.60" font-size="11" text-anchor="end">0.31</text>
+<line class="grid" x1="82" y1="296.40" x2="948" y2="296.40"/>
+<text x="72" y="300.40" font-size="11" text-anchor="end">0.18</text>
+<line class="grid" x1="82" y1="373.20" x2="948" y2="373.20"/>
+<text x="72" y="377.20" font-size="11" text-anchor="end">0.05</text>
+<line class="grid" x1="82" y1="450.00" x2="948" y2="450.00"/>
+<text x="72" y="454.00" font-size="11" text-anchor="end">-0.08</text>
+<line class="zero" x1="82" y1="403.74" x2="948" y2="403.74"/>
+<line class="grid" x1="82.00" y1="66" x2="82.00" y2="450"/>
+<text x="82.00" y="486" font-size="11" text-anchor="middle">T+0</text>
+<line class="grid" x1="190.25" y1="66" x2="190.25" y2="450"/>
+<text x="190.25" y="486" font-size="11" text-anchor="middle">T+3</text>
+<line class="grid" x1="298.50" y1="66" x2="298.50" y2="450"/>
+<text x="298.50" y="486" font-size="11" text-anchor="middle">T+6</text>
+<line class="grid" x1="406.75" y1="66" x2="406.75" y2="450"/>
+<text x="406.75" y="486" font-size="11" text-anchor="middle">T+9</text>
+<line class="grid" x1="515.00" y1="66" x2="515.00" y2="450"/>
+<text x="515.00" y="486" font-size="11" text-anchor="middle">T+12</text>
+<line class="grid" x1="731.50" y1="66" x2="731.50" y2="450"/>
+<text x="731.50" y="486" font-size="11" text-anchor="middle">T+18</text>
+<line class="grid" x1="948.00" y1="66" x2="948.00" y2="450"/>
+<text x="948.00" y="486" font-size="11" text-anchor="middle">T+24</text>
+<polyline class="series" stroke="#0072B2" points="82.00,406.84 118.08,357.10 154.17,333.09 190.25,327.92 226.33,305.00 262.42,304.89 298.50,308.36 334.58,313.99 370.67,315.90 406.75,316.99 442.83,317.59 478.92,319.00 515.00,320.62 551.08,322.27 587.17,323.67 623.25,324.97 659.33,326.23 695.42,327.51 731.50,328.75 767.58,329.95 803.67,331.11 839.75,332.23 875.83,333.28 911.92,334.91 948.00,336.79"/>
+<line x1="82" y1="504" x2="118" y2="504" stroke="#0072B2" stroke-width="3"/>
+<text x="126" y="508" font-size="12">S1: 조기 종전</text>
+<polyline class="series" stroke="#D55E00" points="82.00,408.14 118.08,337.77 154.17,301.95 190.25,291.97 226.33,256.72 262.42,253.00 298.50,254.44 334.58,259.20 370.67,258.99 406.75,257.77 442.83,255.98 478.92,255.45 515.00,255.34 551.08,255.40 587.17,255.25 623.25,255.07 659.33,254.95 695.42,254.95 731.50,255.01 767.58,255.12 803.67,255.25 839.75,255.42 875.83,255.50 911.92,257.87 948.00,261.30"/>
+<line x1="342" y1="504" x2="378" y2="504" stroke="#D55E00" stroke-width="3"/>
+<text x="386" y="508" font-size="12">S2: 봉쇄 장기화</text>
+<polyline class="series" stroke="#CC79A7" points="82.00,412.84 118.08,267.00 154.17,194.75 190.25,176.93 226.33,106.96 262.42,103.16 298.50,109.99 334.58,123.47 370.67,126.36 406.75,127.04 442.83,126.42 478.92,128.33 515.00,131.00 551.08,133.91 587.17,136.25 623.25,138.43 659.33,140.62 695.42,142.96 731.50,145.34 767.58,147.71 803.67,150.05 839.75,152.38 875.83,154.55 911.92,159.54 948.00,165.83"/>
+<line x1="602" y1="504" x2="638" y2="504" stroke="#CC79A7" stroke-width="3"/>
+<text x="646" y="508" font-size="12">S3: 에너지 시설 타격</text>
+</svg>

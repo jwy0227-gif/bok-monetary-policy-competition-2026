@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="430" viewBox="0 0 980 430">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial, sans-serif;fill:#222}.grid{stroke:#ddd;stroke-width:1}.zero{stroke:#333;stroke-width:1.2}.main{fill:none;stroke:#CC79A7;stroke-width:2.8}.robust{fill:none;stroke:#0072B2;stroke-width:2.3;stroke-dasharray:7 5}.band{fill:#CC79A7;fill-opacity:.14;stroke:none}</style>
+<text x="78" y="30" font-size="18" font-weight="700">Oil Shock → Expected Inflation IRF</text>
+<text x="78" y="50" font-size="12" fill="#555">Main order: Oil → FX → CPI → Expected inflation / Robust order: Oil → FX → Expected inflation → CPI</text>
+<line class="grid" x1="78" y1="76.00" x2="946" y2="76.00"/>
+<text x="68" y="80.00" font-size="11" text-anchor="end">0.118</text>
+<line class="grid" x1="78" y1="149.00" x2="946" y2="149.00"/>
+<text x="68" y="153.00" font-size="11" text-anchor="end">0.080</text>
+<line class="grid" x1="78" y1="222.00" x2="946" y2="222.00"/>
+<text x="68" y="226.00" font-size="11" text-anchor="end">0.042</text>
+<line class="grid" x1="78" y1="295.00" x2="946" y2="295.00"/>
+<text x="68" y="299.00" font-size="11" text-anchor="end">0.004</text>
+<line class="grid" x1="78" y1="368.00" x2="946" y2="368.00"/>
+<text x="68" y="372.00" font-size="11" text-anchor="end">-0.034</text>
+<line class="zero" x1="78" y1="303.17" x2="946" y2="303.17"/>
+<polygon class="band" points="78.00,274.04 114.17,197.52 150.33,157.61 186.50,138.88 222.67,104.26 258.83,104.62 295.00,111.25 331.17,121.31 367.33,127.87 403.50,132.98 439.67,136.54 475.83,140.57 512.00,144.71 548.17,148.84 584.33,152.54 620.50,155.93 656.67,159.11 692.83,162.17 729.00,165.10 765.17,167.89 801.33,170.56 837.50,173.12 873.67,175.59 909.83,177.98 946.00,180.30 946.00,309.79 909.83,308.21 873.67,306.56 837.50,304.87 801.33,303.13 765.17,301.35 729.00,299.52 692.83,297.67 656.67,295.81 620.50,294.01 584.33,292.27 548.17,290.52 512.00,288.51 475.83,286.50 439.67,284.80 403.50,284.54 367.33,284.56 331.17,283.96 295.00,277.70 258.83,273.05 222.67,270.69 186.50,288.82 150.33,280.34 114.17,296.66 78.00,339.74"/>
+<polyline class="main" points="78.00,306.89 114.17,247.09 150.33,218.97 186.50,213.85 222.67,187.47 258.83,188.84 295.00,194.47 331.17,202.64 367.33,206.22 403.50,208.76 439.67,210.67 475.83,213.54 512.00,216.61 548.17,219.68 584.33,222.40 620.50,224.97 656.67,227.46 692.83,229.92 729.00,232.31 765.17,234.62 801.33,236.84 837.50,238.99 873.67,241.07 909.83,243.09 946.00,245.04"/>
+<polyline class="robust" points="78.00,306.89 114.17,247.09 150.33,218.97 186.50,213.85 222.67,187.47 258.83,188.84 295.00,194.47 331.17,202.64 367.33,206.22 403.50,208.76 439.67,210.67 475.83,213.54 512.00,216.61 548.17,219.68 584.33,222.40 620.50,224.97 656.67,227.46 692.83,229.92 729.00,232.31 765.17,234.62 801.33,236.84 837.50,238.99 873.67,241.07 909.83,243.09 946.00,245.04"/>
+<line class="grid" x1="78.00" y1="76" x2="78.00" y2="368"/>
+<text x="78.00" y="392" font-size="11" text-anchor="middle">T+0</text>
+<line class="grid" x1="295.00" y1="76" x2="295.00" y2="368"/>
+<text x="295.00" y="392" font-size="11" text-anchor="middle">T+6</text>
+<line class="grid" x1="512.00" y1="76" x2="512.00" y2="368"/>
+<text x="512.00" y="392" font-size="11" text-anchor="middle">T+12</text>
+<line class="grid" x1="729.00" y1="76" x2="729.00" y2="368"/>
+<text x="729.00" y="392" font-size="11" text-anchor="middle">T+18</text>
+<line class="grid" x1="946.00" y1="76" x2="946.00" y2="368"/>
+<text x="946.00" y="392" font-size="11" text-anchor="middle">T+24</text>
+<line class="main" x1="78" y1="406" x2="112" y2="406"/>
+<text x="122" y="410" font-size="12">Main order</text>
+<line class="robust" x1="228" y1="406" x2="262" y2="406"/>
+<text x="272" y="410" font-size="12">Swapped order</text>
+</svg>

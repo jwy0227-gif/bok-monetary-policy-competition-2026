@@ -1,0 +1,6 @@
+﻿date,series,variable,value,mom_pct,source,stat_code,item_codes
+2026-01-01,"건설기성(불변, 계절조정)",construction_completed_constant_sa,8704781.0,-7.807048908293613,BOK ECOS,901Y104,I48A/I37D
+2026-02-01,"건설기성(불변, 계절조정)",construction_completed_constant_sa,9675284.0,11.149080028549818,BOK ECOS,901Y104,I48A/I37D
+2026-03-01,"건설기성(불변, 계절조정)",construction_completed_constant_sa,9105930.0,-5.884623128375354,BOK ECOS,901Y104,I48A/I37D
+2026-04-01,"건설기성(불변, 계절조정)",construction_completed_constant_sa,8979073.0,-1.3931251393322852,BOK ECOS,901Y104,I48A/I37D
+2026-05-01,"건설기성(불변, 계절조정)",construction_completed_constant_sa,9316405.0,3.756868888358511,BOK ECOS,901Y104,I48A/I37D
