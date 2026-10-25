@@ -37,6 +37,20 @@ The full list of indicators is in `data/indicator_catalog.json`.
 CPI and 1-year-ahead expected inflation from ECOS, 2010-01 to 2026-02. The README there lists the
 ECOS series codes.
 
+## Code
+
+`scripts/` has the Python code. Every script expects to be run from the repo root layout
+(`data/raw`, `data/processed`, `reports/`), and the ECOS scripts need an API key in the
+`ECOS_API_KEY` environment variable.
+
+- ECOS catalog: `cache_ecos_tables.py`, `cache_ecos_catalog.py`, `cache_ecos_curated_items.py`, `cache_ecos_items_for_matches.py`
+- workbook: `build_data_workbook_xlsx.py`, `build_unresolved_with_source_notes.py`
+- SVAR: `eda_raw_series.py`, `eda_final_series.py`, `adf_stl_cpi.py`, `estimate_var_diagnostics.py`, `compare_stl_var_residual_lags.py`, `estimate_irf_cholesky.py`
+- scenario simulation: `custom_oil_path_preupdate_simulation.py`
+- report table: `build_inflation_expectation_gap_table.py`
+
+A few pieces (data processing, STL helper, the other scenario runs) are still being added.
+
 ## Sources
 
 BOK ECOS, BOK monetary policy decisions and minutes, BOK Economic Outlook and Financial Stability
